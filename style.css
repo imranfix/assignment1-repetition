@@ -25,7 +25,7 @@ body{
 
     padding-top: 100px;
     font-size: 50px;
-    color: tomato;
+    color: #ef9273;
 }
 
 .paragraph{
@@ -38,10 +38,11 @@ body{
 
     padding: 15px 20px;
     margin-top: 20px;
-    background-color: tomato;
+    background-color: #70be51;
     border: tomato;
     font-size: 20px;
     border-radius: 5px;
+    color: white;
 }
 
 .header-donate{
@@ -76,11 +77,11 @@ body{
     font-size: 40px;
     padding-left: 30px;
     padding-top: 30px;
-    box-shadow: 2px 10px 3px lightslategray;
+    box-shadow: 2px 10px 3px #a9c25d;
     height: 90px;
     width: 130px;
     margin-left: 10px;
-    color: green;
+    color: greena;
 }
 
 hr{

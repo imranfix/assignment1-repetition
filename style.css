@@ -1,0 +1,179 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+
+body{
+
+    font-family: 'Readex Pro', sans-serif;
+}
+
+.banner-section{
+
+    background-image: url(./images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 80px;
+    height: 620px;
+    opacity: 0.9;
+    
+   
+}
+
+.header-h1{
+
+    padding-top: 100px;
+    font-size: 50px;
+    color: tomato;
+}
+
+.paragraph{
+
+    padding-left: 15px;
+    color: lightcyan;
+}
+
+.first-btn{
+
+    padding: 15px 20px;
+    margin-top: 20px;
+    background-color: tomato;
+    border: tomato;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.header-donate{
+
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 80px;
+    font-size: 50px;
+}
+
+.para-donate{
+
+    text-align: center;
+    padding-top: 25px;
+}
+
+.shadow-section{
+
+    display: flex;
+    margin-top: 85px;
+    margin-left: 300px;
+}
+
+.position{
+
+    margin: 0px 30px;
+}
+
+.box{
+
+    font-size: 40px;
+    padding-left: 30px;
+    padding-top: 30px;
+    box-shadow: 2px 10px 3px lightslategray;
+    height: 90px;
+    width: 130px;
+    margin-left: 10px;
+    color: green;
+}
+
+hr{
+  
+    margin-left: 330px;
+    margin-right: 350px;
+    
+
+}
+
+.taka{
+
+    color: lightslategrey;
+    padding-bottom: 10px;
+    padding-left: 600px;
+}
+
+.perfect{
+
+    margin-top: 100px;
+}
+
+
+.second-btn{
+
+    padding: 15px 20px;
+    margin-top: 20px;
+    background-color: tomato;
+    border: tomato;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 620px;
+}
+
+.header-dp{
+
+  
+    margin-top: 50px;
+    margin-left: 560px;
+}
+
+.para-dp{
+
+    margin-left: 300px;
+    margin-top: 15px;
+  
+
+}
+
+.box-item{
+
+    display: flex;
+    margin-top: 100px;
+   
+    padding: 25px 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+
+   
+
+}
+
+.box-shadow-dp1{
+
+ 
+    font-size: 20px;
+    margin-left: 20px;
+    background-color: cadetblue;
+    padding: 15px 15px;
+    border-radius: 10px;
+}
+  
+
+
+  
+.box-shadow-dp2{
+
+ 
+    font-size: 20px;
+    margin-left: 20px;
+    background-color: lightskyblue;
+    padding: 15px 15px;
+    border-radius: 10px;
+}
+
+  
+
+.box-shadow-dp3{
+
+ 
+    font-size: 20px;
+    margin-left: 20px;
+    background-color: lightgrey;
+    padding: 15px 15px;
+    border-radius: 10px;
+}

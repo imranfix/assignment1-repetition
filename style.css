@@ -6,6 +6,7 @@
 body{
 
     font-family: 'Readex Pro', sans-serif;
+    
 }
 
 .banner-section{
@@ -48,9 +49,7 @@ body{
 .header-donate{
 
     text-align: center;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 80px;
+    margin-top: 50px;
     font-size: 50px;
 }
 
@@ -81,7 +80,7 @@ body{
     height: 90px;
     width: 130px;
     margin-left: 10px;
-    color: greena;
+    color: tomato;
 }
 
 hr{
@@ -92,11 +91,18 @@ hr{
 
 }
 
+.fixed{
+
+    text-align: center;
+    margin-right: 295px;
+    
+}
+
 .taka{
 
     color: lightslategrey;
+    text-align: center;
     padding-bottom: 10px;
-    padding-left: 600px;
 }
 
 .perfect{
@@ -113,21 +119,19 @@ hr{
     border: tomato;
     font-size: 20px;
     border-radius: 5px;
-    margin-left: 620px;
+    margin-left: 660px;
 }
 
 .header-dp{
 
   
     margin-top: 50px;
-    margin-left: 560px;
+    text-align: center;
 }
 
 .para-dp{
 
-    margin-left: 300px;
-    margin-top: 15px;
-  
+  text-align: center;
 
 }
 

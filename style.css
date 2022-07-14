@@ -127,11 +127,14 @@ hr{
   
     margin-top: 50px;
     text-align: center;
+    font-size: 40px;
 }
 
 .para-dp{
 
   text-align: center;
+  font-size: 25px;
+  margin-top: 30px;
 
 }
 
@@ -181,4 +184,73 @@ hr{
     background-color: lightgrey;
     padding: 15px 15px;
     border-radius: 10px;
+}
+
+.tag-h1{
+
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+}
+
+.email-subscribe{
+
+    display: flex;
+    margin: 50px 440px;
+    background-color: antiquewhite;
+    height: 120px;
+    width: auto;
+
+}
+.fit-2{
+
+    display: block;
+}
+
+.fit-1{
+
+    margin-left: 70px;
+    background-color: lightslategray;
+    padding: 5px 90px;
+    border: lightslategray;
+    border-radius: 3px;
+}
+
+
+.fit-2{
+
+    margin-left: 70px;
+    background-color: tomato;
+    padding: 5px 5px;
+    border: tomato;
+    border-radius: 3px;
+    color: white;
+}
+
+.last-para{
+
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+.starving{
+
+    background-color: #02031a;
+    height: 120px;
+}
+
+.last{
+    
+    color: tomato;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.last-para1{
+
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 15px;
 }
